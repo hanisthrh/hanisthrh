@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hanisthrh
 - 👀 I’m interested in learning software engineering.
 - 🌱 I’m currently learning basic programming languages.
-- 💞️ I’m looking to collaborate on phyton and javascript.
 - 📫 You can reach me at my email address.
 
 <!---
