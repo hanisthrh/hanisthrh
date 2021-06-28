@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanisthrh
-- 👀 I’m interested in learning software engineering.
+- 👀 I’m interested in learning software development.
 - 🌱 I’m currently learning basic programming languages.
 - 📫 You can reach me at my email address.
 
